@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankesh0singh
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ...C,Java
+- 🌱 I’m currently learning ...C, Java, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ... Internships 
 - 📫 How to reach me ... social media 
 
